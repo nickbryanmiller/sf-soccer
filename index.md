@@ -17,9 +17,11 @@ He grew up playing soccer in Florida and
 
 ### Join waitlist
 
-name = ___
+Email
 
-<input type="text" id="email" name="email"/>
+<input type="email" id="email" name="email"/>
+
+<button name="button" onclick="https://nickbryanmiller.github.io/sf-soccer/">Join</button>
 
 ## SF Pick Up Soccer
 
