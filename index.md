@@ -25,7 +25,8 @@ Email
 
 ## SF Pick Up Soccer
 
-Spark Social in Mission Bay!
+### Spark Social in Mission Bay!
+
 - Saturdays at 4:00 PM
 - Bring a dark and light shirt
 
