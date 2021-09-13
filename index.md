@@ -1,4 +1,4 @@
-## [SF Soccer with Nick](bit.ly/sf-soccer-with-nick)
+## SF Soccer with Nick
 
 ![IMG_8534](https://user-images.githubusercontent.com/15352507/133010658-4a38514c-06e8-4f4f-9f4e-49f35ee3a312.jpg)
 
@@ -14,6 +14,12 @@ He grew up playing soccer in Florida and
 ## Instruction and Training
 
 **Nick is currently not accepting any new players to train but is hoping to open up more spots for new players soon!**
+
+### Join waitlist
+
+name = ___
+
+<input type="text" id="email" name="email"/>
 
 ## SF Pick Up Soccer
 
