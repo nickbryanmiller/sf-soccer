@@ -38,4 +38,4 @@ Please stay safe everyone and follow local safety guidelines!
 
 ## Last Updated
 
-This website is up to date as of 09/01/2021
+This website is up to date as of 08/01/2021
