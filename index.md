@@ -13,7 +13,7 @@ He grew up playing soccer in Florida and
 
 ## Instruction and Training
 
-**Nick is currently not accepting any new players to train but is hoping to open up more spots for new players soon!**
+**Due to demand, Nick is currently not accepting any new players to train but is hoping to open up more spots for new players soon!**
 
 Training is usually Tuesday and Thursday but dates are flexible.
 
@@ -35,3 +35,7 @@ Email
 ## Covid Safety
 
 Please stay safe everyone and follow local safety guidelines!
+
+## Last Updated
+
+This website is up to date as of 09/01/2021
