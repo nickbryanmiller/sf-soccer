@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## SF Soccer with Nick
 
-You can use the [editor on GitHub](https://github.com/nickbryanmiller/sf-soccer/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Nick is a soccer instructor and trainer living in San Francisco.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+He grew up playing soccer in Florida and
+- Ranked highly in the SEC as part of ODP (Olympic Development Program)
+- Captained a team that placed 3rd in North America with Super Y
+- Captained a club team that traveled around the state
+- Played club at the University of Florida
+- Refereed many state tournaments
 
-### Markdown
+## Instruction and Training
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```diff
+# Nick is currently not accepting any new players to train
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
++ but is hoping to open up more spots for new players soon!
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## SF Pick Up Soccer
 
-### Jekyll Themes
+Spark Social in Mission Bay!
+- Saturdays at 4:00 PM
+- Bring a dark and light shirt
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nickbryanmiller/sf-soccer/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Covid Safety
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Please stay safe everyone and follow local safety guidelines!
