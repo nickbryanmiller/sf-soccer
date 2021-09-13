@@ -11,11 +11,7 @@ He grew up playing soccer in Florida and
 
 ## Instruction and Training
 
-```diff
-# Nick is currently not accepting any new players to train
-
-+ but is hoping to open up more spots for new players soon!
-```
+**Nick is currently not accepting any new players to train but is hoping to open up more spots for new players soon!**
 
 ## SF Pick Up Soccer
 
