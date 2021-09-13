@@ -1,8 +1,10 @@
 ## SF Soccer with Nick
 
+![IMG_8534](https://user-images.githubusercontent.com/15352507/133010658-4a38514c-06e8-4f4f-9f4e-49f35ee3a312.jpg)
+
 Nick is a soccer instructor and trainer living in San Francisco.
 
-He grew up playing soccer in Florida and
+- He grew up playing soccer in Florida
 - Ranked highly in the SEC as part of ODP (Olympic Development Program)
 - Captained a team that placed 3rd in North America with Super Y
 - Captained a club team that traveled around the state
@@ -15,9 +17,15 @@ He grew up playing soccer in Florida and
 
 ## SF Pick Up Soccer
 
-Spark Social in Mission Bay!
+### Spark Social in Mission Bay
 - Saturdays at 4:00 PM
 - Bring a dark and light shirt
+
+## SF Soccer Leagues
+
+### Spark Social
+
+Teams should register online. Games are Tuesday, Wednesday, and Thursday.
 
 ## Covid Safety
 
