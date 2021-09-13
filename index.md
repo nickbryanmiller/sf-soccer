@@ -1,4 +1,4 @@
-## SF Soccer with Nick
+## SF Soccer with Nick Miller
 
 ![IMG_8534](https://user-images.githubusercontent.com/15352507/133010658-4a38514c-06e8-4f4f-9f4e-49f35ee3a312.jpg)
 
