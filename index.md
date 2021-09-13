@@ -15,6 +15,8 @@ He grew up playing soccer in Florida and
 
 **Nick is currently not accepting any new players to train but is hoping to open up more spots for new players soon!**
 
+Training is usually Tuesday and Thursday but dates are flexible.
+
 ### Join waitlist
 
 Email
